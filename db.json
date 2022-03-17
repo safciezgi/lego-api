@@ -1,0 +1,124 @@
+{
+    "products": [
+      {
+        "id": 0,
+        "title": "Batman™ Cowl - DC",
+        "category": "Batman",
+        "description": "An eye-catching feature for the home or office.",
+        "price": 179.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/blta09fdbfc51b13fff/76182_alt2.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1"
+      },
+      {
+        "id": 1,
+        "title": "Batman™ With Gun - DC",
+        "category": "Batman",
+        "description": "Batman™ minifigures encourage kids to explore endless imaginative play possibilities.",
+        "price": 139.9,
+        "image": "https://toppng.com//public/uploads/preview/batman-lego-with-gun-11535994046zbo12wunhs.png"
+      },
+      {
+        "id": 2,
+        "title": "1989 Batwing - DC",
+        "category": "Batman",
+        "description": "Bring the iconic 1989 Batman movie to life.",
+        "price": 219.9,
+        "image": "https://m.media-amazon.com/images/I/818F-bjbysS._AC_SL1500_.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Adventures with Mario - Super Mario™",
+        "category": "Super Mario",
+        "description": "Hours of creative, competitive fun.",
+        "price": 59.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt75fb575e5fab9aad/71360.png?fit=bounds&format=png&width=792&height=792&dpr=1"
+      },
+      {
+        "id": 4,
+        "title": "Nintendo Entertainment System™ - Super Mario™",
+        "category": "Super Mario",
+        "description": "With authentic reproductions of the original system, it gives fans a way to recapture childhood magic.",
+        "price": 229.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt92f7face5cfdb894/71374.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=1"
+      },
+      {
+        "id": 5,
+        "title": "Adventures with Peach - Super Mario™",
+        "category": "Super Mario",
+        "description": "Start your Adventures with Peach.",
+        "price": 179.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/bltdcfe121919b25f07/71403.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=1"
+      },
+      {
+        "id": 6,
+        "title": "Voldemort™, Nagini & Bellatrix - Harry Potter™",
+        "category": "Harry Potter",
+        "description": "Recreations from the Harry Potter™ movies: the notorious Lord Voldemort™, his sinister snake Nagini and most loyal servant Bellatrix Lestrange.",
+        "price": 79.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt9a5fd36968d558e0/40496.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=1"
+      },
+      {
+        "id": 7,
+        "title": "Harry, Hermione, Ron & Hagrid™ - Harry Potter™",
+        "category": "Harry Potter",
+        "description": "Recreations of 4 of the most famous characters from the Harry Potter™ movies: Harry Potter, Hermione Granger™, Ron Weasley™ and Rubeus Hagrid™.",
+        "price": 39.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/bltbc78df8e2ce91566/40495.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=2"
+      },
+      {
+        "id": 8,
+        "title": "Hogwarts™ Wizard's Chess - Harry Potter™",
+        "category": "Harry Potter",
+        "description": "Magical board game for Harry Potter fans",
+        "price": 219.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt48dcc3b1efc0b234/76392.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=1"
+      },
+      {
+        "id": 9,
+        "title": "Venom - Marvel",
+        "category": "Marvel",
+        "description": "Spectacular Venom model to build and display.",
+        "price": 59.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/blta53bcc3e1e940e0e/76187.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=1"
+      },
+      {
+        "id": 10,
+        "title": "Thor's Hammer - Marvel",
+        "category": "Marvel",
+        "description": "Marvel Thor's Hammer build-and-display model for adults",
+        "price": 99.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/bltd22f99034387c7ac/76209.png?fit=bounds&format=png&width=792&height=792&dpr=1"
+      },
+      {
+        "id": 11,
+        "title": "Infinity Gauntlet - Marvel",
+        "category": "Marvel",
+        "description": "Create Mar",
+        "price": 179.9,
+        "image": "https://i.imgur.com/prlzsVY.png"
+      },
+      {
+        "id": 12,
+        "title": "The Child - Star Wars™",
+        "category": "Star Wars",
+        "description": "Buildable Yoda figure in brick form.",
+        "price": 99.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt4077c030eb5d127d/75318.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=1"
+      },
+      {
+        "id": 13,
+        "title": "Darth Vader™ Helmet - Star Wars™",
+        "category": "Star Wars",
+        "description": "Darth Vader Helmet to build and display",
+        "price": 139.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/bltb44cc1cd596f22a6/75304_alt4.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=1"
+      },
+      {
+        "id": 14,
+        "title": "A-wing Starfighter™ - Star Wars™",
+        "category": "Star Wars",
+        "description": "A fantastic gift idea for Star Wars true fans",
+        "price": 219.9,
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt5269884b4a475813/75275.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=1"
+      }
+    ]
+  }
