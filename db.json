@@ -6,15 +6,15 @@
         "category": "Batman",
         "description": "An eye-catching feature for the home or office.",
         "price": 179.9,
-        "image": "https://www.lego.com/cdn/cs/set/assets/blta09fdbfc51b13fff/76182_alt2.png?fit=bounds&format=webply&quality=80&width=800&height=800&dpr=1"
+        "image": "https://cdn03.ciceksepeti.com/cicek/kcm12974515-1/XL/lego-dc-76182-batman-cowl-kcm12974515-1-a81f55dca6da4589aa09557a6840b5a6.jpg"
       },
       {
         "id": 1,
-        "title": "Batman™ With Gun - DC",
+        "title": "Batman™ Clock - DC",
         "category": "Batman",
         "description": "Batman™ minifigures encourage kids to explore endless imaginative play possibilities.",
         "price": 139.9,
-        "image": "https://toppng.com//public/uploads/preview/batman-lego-with-gun-11535994046zbo12wunhs.png"
+        "image": "https://www.lego.com/cdn/cs/set/assets/bltc5ba3b8baa06d82f/5002423_alt2.jpg?fit=bounds&format=jpg&quality=80&width=1600&height=1600&dpr=1"
       },
       {
         "id": 2,
@@ -30,7 +30,7 @@
         "category": "Super Mario",
         "description": "Hours of creative, competitive fun.",
         "price": 59.9,
-        "image": "https://www.lego.com/cdn/cs/set/assets/blt75fb575e5fab9aad/71360.png?fit=bounds&format=png&width=792&height=792&dpr=1"
+        "image": "https://images.heb.com/is/image/HEBGrocery/004180516"
       },
       {
         "id": 4,
@@ -50,19 +50,19 @@
       },
       {
         "id": 6,
-        "title": "Voldemort™, Nagini & Bellatrix - Harry Potter™",
+        "title": "Voldemort™ - Harry Potter™",
         "category": "Harry Potter",
-        "description": "Recreations from the Harry Potter™ movies: the notorious Lord Voldemort™, his sinister snake Nagini and most loyal servant Bellatrix Lestrange.",
+        "description": "Recreations from the Harry Potter™ movies: the notorious Lord Voldemort™, his sinister snake Nagini.",
         "price": 79.9,
-        "image": "https://www.lego.com/cdn/cs/set/assets/blt9a5fd36968d558e0/40496.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=1"
+        "image": "https://cdn.cimri.io/image/1000x1000/legoharrypotterlordvoldemort_206585736.jpg"
       },
       {
         "id": 7,
-        "title": "Harry, Hermione, Ron & Hagrid™ - Harry Potter™",
+        "title": "Hagrid™ - Harry Potter™",
         "category": "Harry Potter",
-        "description": "Recreations of 4 of the most famous characters from the Harry Potter™ movies: Harry Potter, Hermione Granger™, Ron Weasley™ and Rubeus Hagrid™.",
+        "description": "Recreations of 4 of the most famous character from the Harry Potter™ movies: Rubeus Hagrid™.",
         "price": 39.9,
-        "image": "https://www.lego.com/cdn/cs/set/assets/bltbc78df8e2ce91566/40495.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=2"
+        "image": "https://i5.walmartimages.com/asr/b58017f5-3fb0-4b8c-9ddb-bf90c1614bfa_1.0f764aa15ac6b496d36dc9912b51e2d1.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
       },
       {
         "id": 8,
@@ -78,7 +78,7 @@
         "category": "Marvel",
         "description": "Spectacular Venom model to build and display.",
         "price": 59.9,
-        "image": "https://www.lego.com/cdn/cs/set/assets/blta53bcc3e1e940e0e/76187.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=1"
+        "image": "https://www.hamleys.com/media/catalog/product/7/3/733675_alt6.jpg"
       },
       {
         "id": 10,
@@ -94,7 +94,7 @@
         "category": "Marvel",
         "description": "Create Mar",
         "price": 179.9,
-        "image": "https://i.imgur.com/prlzsVY.png"
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt30859343a067e764/76191_alt2.png"
       },
       {
         "id": 12,
@@ -110,7 +110,7 @@
         "category": "Star Wars",
         "description": "Darth Vader Helmet to build and display",
         "price": 139.9,
-        "image": "https://www.lego.com/cdn/cs/set/assets/bltb44cc1cd596f22a6/75304_alt4.jpg?fit=bounds&format=jpg&quality=80&width=792&height=792&dpr=1"
+        "image": "https://d2ly9j2wcshstw.cloudfront.net/productimages/113426/big/75304_alt4.jpg"
       },
       {
         "id": 14,
